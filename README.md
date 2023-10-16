@@ -3,7 +3,7 @@
  ### [Infill_Analysis YouTube Demonstration](https://youtu.be/4mRkdseSnO8)
 
 <h2>Description</h2>
-This project entails a comprehensive examination thorough and in-depth analysis of an Infill Program within the Economic Development Department of a city in Texas. The analysis encompasses an investigation into the allocation of funds, the assessment of success indicators, current status evaluations, the advantages accrued by the city, and a comprehensive examination of the return on investment.
+This project entails a comprehensive examination thorough an in-depth analysis of an Infill Program within the Economic Development Department of a major city in Texas. The analysis encompasses an investigation into the allocation of funds, the assessment of success indicators, current status evaluations, the advantages accrued by the city, and a comprehensive examination of the return on investment.
 <br />
 
 
